@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #1a9edf;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+        text: size 100px;
+        text-overflow: ellipsis;
+        -ms-text-combine-horizontal: var(#1a9edf);
+        font-family: sans-serif;
+        margin: 20px;
+        border: none;
+        border-radius: 3px;
+        background-color: #1a9edf;
+        color: #fff;
+        cursor: pointer;
+    }
+  
+    
+    
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color:#d25060;
+        color: white;
+        text-align: center;
+     }

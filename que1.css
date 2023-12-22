@@ -1,0 +1,35 @@
+a{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    background-color: #2bca12;
+    color: #fff;
+    cursor: pointer;
+  }
+  body {
+    font-family: sans-serif;
+    margin: 20px;
+  }
+  
+  .container {
+    border: 1px solid #ddd;
+    padding: 20px;
+  }
+  
+  .section {
+    margin-bottom: 15px;
+  }
+  
+  .instructions p {
+    font-size: 16px;
+  }
+  
+  .choices {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .choices label {
+    cursor: pointer;
+  }

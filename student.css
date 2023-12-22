@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #1a9edf;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  main {
+    padding: 40px;
+  }
+  
+  .exam-section {
+    border: 1px solid #ddd;
+    padding: 20px;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  .start-exam-button {
+    background-color: #17c247;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #d25060;
+  }
+  
